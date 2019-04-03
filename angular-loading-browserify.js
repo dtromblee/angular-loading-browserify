@@ -1,0 +1,1 @@
+module.exports = require('../angular-loading/angular-loading.js') // Presupposes node_module structure
