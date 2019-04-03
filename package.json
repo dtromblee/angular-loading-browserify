@@ -1,6 +1,6 @@
 {
   "name": "angular-loading-browserify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shim to correctly require angular-loading (which doesn't include a main attribute) for browserify",
   "main": "angular-loading-browserify.js",
   "homepage": "https://github.com/dtromblee/angular-loading-browserify",
